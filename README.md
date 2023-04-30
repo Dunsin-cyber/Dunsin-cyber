@@ -4,6 +4,8 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 
 [![Linkedin Badge](https://img.shields.io/badge/-dunsin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dunsindev/)](https://www.linkedin.com/in/dunsindev)
 [![Gmail Badge](https://img.shields.io/badge/-ayodejiabisuwa23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=dunsin:ayodejiabisuwa23@gmail.com)](dunsin:ayodejiabisuwa23@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Abisuwa_Dunsin)
+
 
 
 
@@ -14,15 +16,13 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-<!-- ![C](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
-![C](https://img.shields.io/endpoint?color=%23283593&label=c&logo=c&logoColor=%23283593&style=social)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) -->
-<!-- ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql) -->
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
@@ -35,4 +35,4 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dunsin-cyber&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunsin-cyber&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dunsin-cyber.visitor-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dunsin-cyber.Dunsin-Cyber)
