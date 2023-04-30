@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-aepta-cai.icp0.io/#/) and co-founder and CTO of [Roomme](https://roomme.ng). On web2.0 I am a Full-Stack JavaScript developer, Microsoft Certified cloud-computing practitioner, Database Administrator, Certified in AI Cognitive services by azure, Software Engineering student at [ALX](https://tech.alxafrica.com/nigeria?gclid=CjwKCAjwo7iiBhAEEiwAsIxQESTDPOJvg9RxVThleZnhw5TaDlBWlMtz1Dz-3lDtyoMnr05JCQUU5BoCTs0QAvD_BwE). On Web3.0, I am a Blockchain Develper, built features to help a startup raise about $50k in funding, writes motoko and Rust. Find out more about me & feel free to connect with me here:
+I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-aepta-cai.icp0.io/#/) and co-founder and CTO of [Roomme](https://roomme.ng). On web2.0 I am a Full-Stack TypeScript developer, Microsoft Certified cloud-computing practitioner, Database Administrator, Certified in AI Cognitive services by azure, Software Engineering student at [ALX](https://tech.alxafrica.com/nigeria?gclid=CjwKCAjwo7iiBhAEEiwAsIxQESTDPOJvg9RxVThleZnhw5TaDlBWlMtz1Dz-3lDtyoMnr05JCQUU5BoCTs0QAvD_BwE). On Web3.0, I am a Blockchain Develper, built features to help a startup raise about $50k in funding, writes motoko and Rust. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dunsin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dunsindev/)](https://www.linkedin.com/in/dunsindev)
 [![Gmail Badge](https://img.shields.io/badge/-ayodejiabisuwa23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=dunsin:ayodejiabisuwa23@gmail.com)](dunsin:ayodejiabisuwa23@gmail.com)
@@ -35,4 +35,4 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dunsin-cyber&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunsin-cyber&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dunsin-cyber.Dunsin-Cyber)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dunsin-Cyber.Dunsin-Cyber)
