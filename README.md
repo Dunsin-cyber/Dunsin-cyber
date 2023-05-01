@@ -98,4 +98,3 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunsin-cyber&hide=TeX&layout=compact)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Dunsin-cyber.Dunsin-cyber)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dunsin-cyber)
