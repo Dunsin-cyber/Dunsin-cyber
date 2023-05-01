@@ -11,7 +11,7 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 
 ## ⚡ Technologies
 
-# 🙊 Languages
+#### 🙊 Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,13 +28,13 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-# 🎞 ORMs
+#### 🎞 ORMs
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 
-# 📅 Databases
+#### 📅 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -43,7 +43,7 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 
 
 
-# ⚡ Other Technologies
+#### ⚡ Other Technologies
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
@@ -52,7 +52,7 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-# 🚂 Frameworks / Libaries / Engines
+#### 🚂 Frameworks / Libaries / Engines
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -63,7 +63,7 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 
-# 🛠 Tools
+#### 🛠 Tools
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -73,7 +73,7 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 
-# 🏚 Hosting/SaaS
+#### 🏚 Hosting/SaaS
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -85,7 +85,7 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-# 💻IDEs/Editors
+#### 💻IDEs/Editors
 
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
