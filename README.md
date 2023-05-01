@@ -24,7 +24,7 @@ I am Dunsin Abisuwa, currently the founder of [Nexai](https://ahiu5-dyaaa-aaaak-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-# 🎵 Musics
+#### 🎵 Musics
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
